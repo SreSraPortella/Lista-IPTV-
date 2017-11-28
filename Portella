@@ -1,6 +1,4 @@
 #EXTM3U
-
-
 #EXTINF:-1 tvg-id="A&E" tvg-name="A&E" tvg-logo="http://iptv.starbr.in/img/perfil/1495634046_372bdffb69b193d6aa258b0461f1726ac8ac769d.png" group-title="Variedades e Musicas",A&E
 http://starbr.digitalgroup.me:15000/live/nnnn/nnnn/1120.m3u8
 #EXTINF:-1 tvg-id="A&E" tvg-name="A&E HD" tvg-logo="http://iptv.starbr.in/img/perfil/1495634046_372bdffb69b193d6aa258b0461f1726ac8ac769d.png" group-title="Variedades e Musicas",A&E HD
