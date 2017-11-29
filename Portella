@@ -1,7 +1,4 @@
 #EXTM3U
-
-
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",A&E
 http://server.m3u.win:25461/live/pJgnl0efWS/xIteNJPh6V/201.m3u8?DantasIPTV
 
