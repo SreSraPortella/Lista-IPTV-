@@ -7,6 +7,36 @@ http://158.58.172.5:8081/looktvs/combate1/playlist.m3u8
 http://painel.iptvmove.com:25461/live/Carlostvbox12/95048607/1413.ts
 #EXTINF:-1 tvg-logo="http://bit.ly/2eUXau8" group-title="ESPORTES" ,SPORTV SD
 http://painel.iptvmove.com:25461/live/Carlostvbox12/95048607/1254.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lpNTdNS.png" group-title="ESPORTES", ALL Sports
+http://173.236.10.10:1935/dgrau/dgrau/live.m3u8
+#EXTINF:-1 tvg-logo="http://bit.ly/2wRHRL2" group-title="ESPORTES", Combate SD
+http://158.58.172.5:8081/looktvs/combate1/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://bit.ly/2wRHRL2" group-title="ESPORTES", Combate HD
+http://painel.iptvmove.com:25461/live/Carlostvbox12/95048607/1413.ts
+#EXTINF:-1 tvg-logo="http://bit.ly/2eUXau8" group-title="ESPORTES" ,SPORTV SD
+http://painel.iptvmove.com:25461/live/Carlostvbox12/95048607/1254.ts
+EXTINF:-1 tvg-logo="http://bit.ly/2wgMzQn" group-title="ESPORTES" ,FOXSPORTS SD
+http://painel.iptvmove.com:25461/live/Carlostvbox12/95048607/1316.ts
+#EXTINF:-1 tvg-logo="http://bit.ly/2wS2zue" group-title="ESPORTES" ,FOX SPORTS 2 SD
+http://painel.iptvmove.com:25461/live/Carlostvbox12/95048607/1315.ts
+#EXTINF:-1 tvg-logo="http://bit.ly/2vNkuRj" group-title="ESPORTES", ESPORTE INTERATIVO
+http://enlsso9vfh.singularcdn.net.br/live/canal_03/playlist-720p.m3u8
+#EXTINF:-1 tvg-logo="http://bit.ly/2vNkuRj" group-title="ESPORTES", EI MAXX
+http://enlsso9vfh.singularcdn.net.br/live/canal_01/playlist-720p.m3u8
+#EXTINF:-1 tvg-logo="http://bit.ly/2vNkuRj" group-title="ESPORTES", EI MAXX 2
+http://enlsso9vfh.singularcdn.net.br/live/canal_02/playlist-720p.m3u8
+#EXTINF:-1 tvg-logo="http://bit.ly/2wSkFxJ" group-title="ESPORTES" ,ESPN SD
+http://painel.iptvmove.com:25461/live/Carlostvbox12/95048607/1322.ts
+#EXTINF:-1 tvg-logo="http://bit.ly/2xUkWha" group-title="ESPORTES" ,ESPN+ SD
+http://painel.iptvmove.com:25461/live/Carlostvbox12/95048607/1225.ts
+#EXTINF:-1 tvg-logo="http://bit.ly/2wSpBmn" group-title="ESPORTES" ,ESPN BRASIL SD
+http://painel.iptvmove.com:25461/live/Carlostvbox12/95048607/1321.ts
+#EXTINF:-1 tvg-logo="http://bit.ly/2xlO43Q" group-title="ESPORTES" ,Premiere FC1 HD
+http://painel.iptvmove.com:25461/live/Carlostvbox12/95048607/1378.ts
+#EXTINF:-1 tvg-logo="http://bit.ly/2xlO43Q" group-title="ESPORTES" ,Premiere FC1
+http://painel.iptvmove.com:25461/live/Carlostvbox12/95048607/1269.ts
+#EXTINF:-1 tvg-logo="http://bit.ly/2y8u8iY" group-title="ESPORTES" ,Premiere FC2
+http://painel.iptvmove.com:25461/live/Carlostvbox12/95048607/1277.ts
 #EXTINF:-1 tvg-logo="https://lut.im/xO3mLBpjYa/0OQb76WIZhMyay0R.jpeg" group-title="Reality",A Fazenda 
 https://afazendaoitohls1-lh.akamaihd.net/i/afazendaoitohls1_1@379189/index_720_av-p.m3u8?sd=10&rebase=on
 http://192.99.148.73:8080/live/play/play/89.ts
