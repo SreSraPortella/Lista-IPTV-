@@ -1,4 +1,12 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lpNTdNS.png" group-title="ESPORTES", ALL Sports
+http://173.236.10.10:1935/dgrau/dgrau/live.m3u8
+#EXTINF:-1 tvg-logo="http://bit.ly/2wRHRL2" group-title="ESPORTES", Combate SD
+http://158.58.172.5:8081/looktvs/combate1/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://bit.ly/2wRHRL2" group-title="ESPORTES", Combate HD
+http://painel.iptvmove.com:25461/live/Carlostvbox12/95048607/1413.ts
+#EXTINF:-1 tvg-logo="http://bit.ly/2eUXau8" group-title="ESPORTES" ,SPORTV SD
+http://painel.iptvmove.com:25461/live/Carlostvbox12/95048607/1254.ts
 #EXTINF:-1 tvg-logo="https://lut.im/xO3mLBpjYa/0OQb76WIZhMyay0R.jpeg" group-title="Reality",A Fazenda 
 https://afazendaoitohls1-lh.akamaihd.net/i/afazendaoitohls1_1@379189/index_720_av-p.m3u8?sd=10&rebase=on
 http://192.99.148.73:8080/live/play/play/89.ts
